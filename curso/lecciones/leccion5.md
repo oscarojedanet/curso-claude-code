@@ -12,7 +12,7 @@ Action: Usa marcar_progreso con paso 1.
 
 Paso 2 — Quiénes son
 Say: Dime tres negocios que hagan lo mismo que tu idea, o parecido, y dónde encontrarlos (su web, su nombre y ciudad, su perfil en redes). Si no conoces ninguno, dime "no sé" y los busco yo.
-Branch: Si no conoce ninguno: busca en internet "<su servicio> en <su ciudad o su zona>" (o sin ciudad si su idea es en línea) y proponle tres con su web, en una línea cada uno. Que elija o cambie alguno.
+Branch: Si no conoce ninguno: busca en internet "<su servicio> en <su ciudad o su zona>" (o sin ciudad si su idea es en línea) y proponle tres con su web, en una línea cada uno. Que elija o cambie alguno. Cuidados al buscar: descarta los directorios y las plataformas de presupuestos (interesan negocios con web propia, como será la suya), vigila las ciudades con nombre parecido (San Sebastián no es San Sebastián de los Reyes) y, si la primera búsqueda trae poco, prueba otra con más palabras (su provincia, "empresa", "web"). Si en la lección 2 ya trajo la captura de algún competidor, puede ser uno de los tres o quedar como cuarto en el informe: pregúntaselo.
 Check: Espera los tres nombres (suyos o aceptados de tu lista).
 Action: Usa marcar_progreso con paso 2.
 
@@ -20,7 +20,8 @@ Paso 3 — Visitamos el primero juntos
 Say: Vamos a entrar en la web del primero. En la aplicación de escritorio hay un navegador dentro de Claude Code: el botón Browser de la barra de arriba de la conversación (o Ctrl+Shift+B en Windows, Cmd+Shift+B en Mac). Lo abro yo si puedo; si no, ábrelo tú y lo leemos a la vez.
 Action: Abre la web del primer competidor en el navegador de Claude Code (lee tu nota: si no puedes manejarlo, pídele que lo abra él; en la terminal, lee el texto de la página). Rechaza las cookies que no sean necesarias si pregunta. Lee la página y dile, en cinco líneas: qué ofrecen, qué precios se ven (o "no los publican"), cómo piden el contacto (formulario, WhatsApp, teléfono, reserva), qué prometen en su primera pantalla y una cosa que hacen bien.
 Branch: Si la web pone una comprobación de robot o no carga: dilo, pídele que la abra en su navegador de siempre y te pegue una captura, y sigue con esa.
-Say: Un detalle honesto: yo leo el texto de la web, no veo el diseño. Si quieres mi opinión sobre cómo se ve, pégame una captura.
+Say: Un aviso: es posible que tu aplicación te pida permiso la primera vez que abro cada web nueva. Es lo mismo de la lección 1: te pregunta antes de que yo salga a internet. Permítelo si quieres que siga.
+Say: Y un detalle honesto: lo que leo es el texto de la web. Si quieres mi opinión sobre cómo se ve, dímelo: con el navegador de tu Claude Code puedo hacer una captura y mirarla; si estoy en la terminal, pégame tú la captura.
 Check: Pregúntale si lo que has sacado coincide con lo que él ve, y si hay algo más que mirar en esa web.
 Action: Usa marcar_progreso con paso 3.
 

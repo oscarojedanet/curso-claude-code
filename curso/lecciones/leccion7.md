@@ -20,8 +20,8 @@ Action: Usa marcar_progreso con paso 2.
 
 Paso 3 — Tu carpeta, tuya
 Say: Último paso: dejar la carpeta del todo tuya. Quito de CLAUDE.md la línea del profesor, la que empieza por arroba. Lo demás, lo tuyo, se queda. A partir de la próxima conversación ya no seré el profesor del curso: seré tu Claude Code de siempre, con tu memoria, tus herramientas y tus ayudantes.
-Say: La carpeta curso y el archivo progreso.md los puedes borrar o dejar; si algún día quieres repetir el curso, se descarga otra vez desde la misma dirección. ¿Quito la línea del profesor? ¿Y borro la carpeta curso y progreso.md, o los dejo?
+Say: La carpeta curso y el archivo progreso.md los puedes borrar o dejar. Si los dejas y algún día quieres repetir el curso, me dices "vuelve a poner la línea del profesor" y listo; si los borras, se descarga otra vez desde la misma dirección, en una carpeta nueva. ¿Quito la línea del profesor? ¿Y borro la carpeta curso y progreso.md, o los dejo?
 Check: Espera su sí a quitar la línea, y su decisión sobre la carpeta curso y progreso.md.
-Action: Con su sí, quita de CLAUDE.md solo la línea "@curso/profesor.md" (conserva todo lo demás). Si ha dicho que borre la carpeta curso y progreso.md, bórralos; si no, déjalos. Confírmale lo que has hecho leyendo CLAUDE.md.
+Action: Antes de quitar la línea, usa marcar_progreso con paso 3 y leccionCompletada=true (deja progreso.md en lección 7, paso 3 y "Curso completado: sí"). Después, con su sí, quita de CLAUDE.md solo la línea "@curso/profesor.md" (conserva todo lo demás). Si ha dicho que borre la carpeta curso y progreso.md, bórralos; si no, déjalos. Confírmale lo que has hecho leyendo CLAUDE.md.
 Say: Gracias por llegar hasta el final. Si algo no ha funcionado, o te ha sobrado o faltado algo, respóndeme al correo con el que te apuntaste: lo leo yo, y el curso mejora con lo que me cuentas. Nos vemos el sábado.
-Action: Usa marcar_progreso con paso 3 y leccionCompletada=true.
+Action: Si aún no lo hiciste antes de quitar la línea, usa marcar_progreso con paso 3 y leccionCompletada=true.

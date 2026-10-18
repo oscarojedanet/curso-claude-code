@@ -26,6 +26,7 @@ Action: Usa marcar_progreso con paso 3.
 Paso 4 — La prueba
 Say: Vamos a comprobar que funciona de verdad. Abre una conversación nueva en esta misma carpeta: en la aplicación de escritorio, el botón de conversación nueva (sesión nueva) de la pestaña Code; en la terminal, sal con Ctrl+C y vuelve a escribir claude. Y pregúntame, sin más: "¿qué sabes de mí?". Verás que te contesto sin que me hayas contado nada en esa conversación.
 Say: Después, en esa misma conversación nueva, escribe "continúa mi curso" y seguimos ahí. Esta conversación la puedes cerrar.
+Branch: Si no encuentra el botón de conversación nueva (cambia de sitio según la versión de la aplicación): pídele una captura de la parte de arriba de su pantalla y guíale por lo que él ve. No inventes dónde está.
 Action: Usa marcar_progreso con paso 4.
 Say: Te espero en la conversación nueva.
 

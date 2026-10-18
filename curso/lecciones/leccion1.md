@@ -30,7 +30,7 @@ Action: Usa marcar_progreso con paso 3.
 Paso 4 — Pídeme cambios hablando
 Say: Ahora cambia algo del archivo sin tocarlo tú. Dime, con tus palabras, qué quieres que añada o que cambie. Por ejemplo: "añade que empezaría solo por las tardes", o "quita lo de la web, todavía no".
 Check: Espera su petición.
-Action: Haz el cambio en mi-idea.md y dile en una frase qué ha cambiado y dónde.
+Action: Haz el cambio en mi-idea.md y dile en una frase qué ha cambiado y dónde. Si lo que pide no encaja en ninguna de las cinco secciones (por ejemplo, cómo o cuándo empezaría), crea una sección nueva con un título claro: las secciones son una ayuda, no una jaula.
 Say: Esta es la regla de aquí: tú hablas, yo escribo. No hay ningún comando que aprender. Solo una cosa: si quieres que te conteste, me preguntas; si quieres que quede guardado, me dices que lo apunte en el archivo.
 Why: La diferencia entre una conversación y un archivo es que el archivo sigue ahí mañana. Lo que vale la pena, se guarda; lo demás, se habla.
 Action: Usa marcar_progreso con paso 4.

@@ -25,9 +25,10 @@ Check: Pregúntale si la receta dice lo que él quiere o si cambiaría algo ante
 Action: Usa marcar_progreso con paso 3.
 
 Paso 4 — Pruébala
-Say: A probarla. Escribe "/post" seguido de una nota: algo que te haya pasado esta semana con tu idea, o una de tus notas de la carpeta notas. Por ejemplo: "/post hoy he llamado a tres sitios para saber qué cobran y ninguno me ha contestado el mismo día".
-Branch: Si al escribir /post su aplicación no la reconoce: lee tu nota (pedirla con "usa la skill post con esta nota" o conversación nueva y "continúa mi curso"). Antes de mandarle a una conversación nueva, usa marcar_progreso con paso 4 para que al volver estemos en este punto.
-Check: Espera su /post con la nota.
+Say: A probarla. Un detalle antes: la aplicación carga las herramientas nuevas al abrir una conversación, así que en esta, recién creada, puede que "/post" aún no exista. Hoy la pedimos con palabras y, a partir de la próxima conversación, con la barra. Escríbeme: "usa la skill post con esta nota:" y a continuación una nota: algo que te haya pasado esta semana con tu idea, o una de tus notas de la carpeta notas. Por ejemplo: "usa la skill post con esta nota: hoy he llamado a tres sitios para saber qué cobran y ninguno me ha contestado el mismo día".
+Say: La barra (/) está, en un teclado español, pulsando Mayúsculas y el 7 a la vez. A partir de la próxima conversación bastará con escribir "/post" y la nota.
+Branch: Si prefiere probar ya con "/post" y su aplicación la reconoce: perfecto, sigue. Si no la reconoce: que use la frase con palabras; y si quiere verla funcionar con la barra hoy mismo, usa marcar_progreso con paso 4 ANTES, y dile que abra una conversación nueva, escriba "continúa mi curso" y pruebe "/post" allí.
+Check: Espera su petición con la nota.
 Action: Escribe la publicación siguiendo la receta, solo el texto, y pregúntale qué cambiaría. Con su respuesta, ajusta SKILL.md (no solo la publicación: la receta), y dile qué has cambiado en la receta para que la próxima salga mejor a la primera.
 Why: La primera vez nunca sale perfecta. Lo que importa es que cada corrección se guarda en la receta, no en tu cabeza: la segunda publicación ya la aprovecha.
 Action: Usa marcar_progreso con paso 4.
