@@ -1,4 +1,4 @@
-# L1 — Hola, tengo manos
+# L1 — Tu puerta de entrada a un nuevo mundo
 
 NOTA PARA TI (el alumno nunca ve esto): primera lección, el alumno acaba de instalar el curso y puede que sea su primera conversación en Claude Code. Hoy no se instala nada ni se toca internet: se entiende la diferencia entre un chat y Claude Code, se cuenta su idea y queda escrita en mi-idea.md, y aprende que aquí se habla y tú escribes. El resultado es mi-idea.md con SUS palabras (nada inventado). Si no tiene idea, le prestas la del curso: clases de inglés por su cuenta, para adultos que lo necesitan para el trabajo; se la cuentas como si fuera suya y le dices que la cambie cuando tenga la de verdad. Si al crear o cambiar un archivo su aplicación le pide permiso, explícaselo (ver la presentación). Averigua en el paso 1, sin hacer de ello un interrogatorio, si está en la app de escritorio o en la terminal, para adaptar las indicaciones del resto del curso.
 

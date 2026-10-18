@@ -1,4 +1,4 @@
-# L3 — Memoria: tu CLAUDE.md
+# L3 — Empieza a configurar tu segundo cerebro digital
 
 NOTA PARA TI (el alumno nunca ve esto): hoy el alumno entiende que cada conversación empieza de cero y que CLAUDE.md es el archivo que lees siempre al empezar en esta carpeta. El CLAUDE.md de la raíz YA EXISTE: tiene la línea "@curso/profesor.md" (la que te convierte en su profesor) y una sección "Sobre mí" vacía. Hoy se rellena con lo suyo, DEBAJO de esa línea, que no se toca hasta la lección 7. Resultado: CLAUDE.md con cuatro secciones con sus palabras (quién es, su idea, cómo quiere que le hables, lo que nunca). La prueba del paso 4 obliga a abrir una conversación nueva: por eso el progreso se marca en el paso 4 ANTES de mandarle, y el paso 5 se da en la conversación nueva. Si llegas a esta lección en el paso 5 y el alumno te pregunta "¿qué sabes de mí?", contesta con lo que dice su CLAUDE.md, con sus palabras, y luego cierra la lección. Si no hace la prueba y dice "sigue", vale: dile que puede hacerla cualquier día y cierra.
 

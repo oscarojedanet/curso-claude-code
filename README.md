@@ -2,9 +2,9 @@
 
 Aprende Claude Code dentro de Claude Code. Gratis, en español y sin saber programar.
 
-Un curso de seis lecciones donde Claude es tu profesor. La mejor forma de dominar una
-herramienta es trabajando con ella. Lo haces en tu ordenador y trabajando sobre una idea de
-negocio real o una ficticia.
+Un curso de seis lecciones donde Claude es tu profesor. Lo haces en tu ordenador y trabajando
+sobre una idea de negocio real o una ficticia. La mejor forma de dominar una herramienta es
+usándola, y este curso se basa en esa premisa.
 
 Lo hace [Oscar Ojeda](https://oscarojeda.net).
 
@@ -23,31 +23,28 @@ una persona técnica para poder construir cosas.
 Dos o tres horas, a tu ritmo. Todos los ejercicios giran sobre tu idea; si no la tienes, el
 curso te ofrece una para practicar.
 
-1. **Hola, tengo manos.** La diferencia entre un chat y Claude Code, vista con tus propios
+1. **Tu puerta de entrada a un nuevo mundo.** La diferencia entre un chat y Claude Code, vista con tus propios
    archivos. Cuentas tu idea y queda escrita.
    Terminas con: tu idea detallada y apuntada en un documento.
-2. **Tu carpeta es tu mesa.** Traes notas, un PDF, una captura de pantalla. Claude lo lee, lo
+2. **Tu primer pedido a Claude, solo un ejemplo de lo que puede hacer por ti.** Traes notas, un PDF, una captura de pantalla. Claude lo lee, lo
    ordena y te saca un plan para la semana.
    Terminas con: notas ordenadas y tu primer plan semanal.
-3. **Memoria: tu CLAUDE.md.** Le escribes quién eres, cómo quieres que te hable y lo que nunca
+3. **Empieza a configurar tu segundo cerebro digital.** Le escribes quién eres, cómo quieres que te hable y lo que nunca
    debe hacer. Desde entonces, lo sabe en cada conversación.
    Terminas con: la memoria principal de Claude configurada, para que sepa quién eres y qué
    haces sin tener que recordárselo cada vez que abres la app.
-4. **Tus propias herramientas: skills.** Creas un botón tuyo, `/post`, que convierte una nota
+4. **Empieza a darle poderes a Claude.** Creas un botón tuyo, `/post`, que convierte una nota
    en una publicación con tu voz. Sin programar.
    Terminas con: tu primera skill de Claude. Es una herramienta que le permite a Claude hacer
    tareas repetitivas una y otra vez sin que tengas que decirle de nuevo cuál era el camino
    correcto.
-5. **Ojos en internet.** Claude busca y visita las webs de tres competidores por ti y te trae
+5. **Sube la apuesta, entra en internet sin entrar en internet.** Claude busca y visita las webs de tres competidores por ti y te trae
    lo que importa.
    Terminas con: un análisis de tu competencia.
-6. **Un equipo en paralelo.** Tres ayudantes revisan tu idea a la vez: un cliente escéptico,
+6. **Que otros trabajen para ti.** Tres ayudantes revisan tu idea a la vez: un cliente escéptico,
    un contable y un amigo honesto.
    Terminas con: tu idea revisada desde diferentes puntos de vista, y aprendes a trabajar con
    subagentes.
-7. **Y ahora, qué.** Lo que has hecho, lo que viene después, y tu carpeta queda en tu
-   ordenador.
-   Terminas con: el siguiente paso claro.
 
 ## Qué necesitas
 
