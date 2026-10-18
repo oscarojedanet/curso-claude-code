@@ -6,7 +6,7 @@ Un curso de seis lecciones donde Claude es tu profesor. La mejor forma de domina
 herramienta es trabajando con ella. Lo haces en tu ordenador y trabajando sobre una idea de
 negocio real o una ficticia.
 
-Lo hace [Oscar Ojeda](https://oscarojeda.net). Este curso es independiente de Anthropic.
+Lo hace [Oscar Ojeda](https://oscarojeda.net).
 
 ## Qué es Claude Code
 
@@ -103,6 +103,12 @@ Nada de esta carpeta se sube a internet. Es tuya.
 
 Abre un *issue* aquí o responde al correo con el que te apuntaste. Las aplicaciones
 cambian; si una pantalla no coincide con lo que dice el curso, cuéntalo y se arregla.
+
+## Aviso
+
+"Claude Code desde cero" es un curso independiente, creado por Oscar Ojeda. No está hecho,
+patrocinado ni revisado por Anthropic, la empresa que desarrolla Claude y Claude Code, ni tiene
+ninguna relación con ella. Claude y Claude Code son marcas de Anthropic.
 
 ## Licencia
 
