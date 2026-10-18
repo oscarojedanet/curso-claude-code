@@ -20,7 +20,7 @@ una persona técnica para poder construir cosas.
 
 ## Lo que vas a hacer
 
-Dos o tres horas, a tu ritmo. Todos los ejercicios giran sobre tu idea; si no la tienes, el
+Una hora, a tu ritmo. Todos los ejercicios giran sobre tu idea; si no la tienes, el
 curso te ofrece una para practicar.
 
 1. **Tu puerta de entrada a un nuevo mundo.** La diferencia entre un chat y Claude Code, vista con tus propios
@@ -51,7 +51,7 @@ curso te ofrece una para practicar.
 - La aplicación de Claude para Windows o Mac (https://claude.ai/download), con el plan Pro
   (unos 20 euros al mes). Si ya la usas para chatear, ya la tienes. El curso es gratis, pero
   para trabajar con Claude Code necesitas como mínimo el plan Pro de Claude.
-- Dos o tres horas, seguidas o repartidas. El curso recuerda por dónde ibas.
+- Una hora, seguida o repartida. El curso recuerda por dónde ibas.
 - Una idea, aunque sea vaga. Si no, el curso te ofrece una para practicar.
 - Nada más. Ni saber programar, ni la terminal, ni cuentas nuevas.
 
