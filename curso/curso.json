@@ -1,0 +1,15 @@
+{
+  "slug": "claude_code_desde_cero",
+  "nombre": "Claude Code desde cero",
+  "se_abre": "2026-11-01",
+  "acceso": "gratis",
+  "lecciones": [
+    { "orden": 1, "titulo": "Hola, tengo manos", "archivo": "leccion1.md" },
+    { "orden": 2, "titulo": "Tu carpeta es tu mesa", "archivo": "leccion2.md" },
+    { "orden": 3, "titulo": "Memoria: tu CLAUDE.md", "archivo": "leccion3.md" },
+    { "orden": 4, "titulo": "Tus propias herramientas: skills", "archivo": "leccion4.md" },
+    { "orden": 5, "titulo": "Ojos en internet", "archivo": "leccion5.md" },
+    { "orden": 6, "titulo": "Un equipo en paralelo", "archivo": "leccion6.md" },
+    { "orden": 7, "titulo": "Y ahora, qué", "archivo": "leccion7.md" }
+  ]
+}

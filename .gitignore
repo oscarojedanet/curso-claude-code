@@ -1,0 +1,13 @@
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Lo que crea el alumno al hacer el curso (no es parte del curso)
+/notas/
+/mi-idea.md
+/plan-semana.md
+/competencia.md
+/revision-idea.md
+/.claude/skills/
+/.claude/agents/
