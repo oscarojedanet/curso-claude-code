@@ -5,7 +5,7 @@ NOTA PARA TI (el alumno nunca ve esto): primera lección, el alumno acaba de ins
 Pasos de esta lección: 5.
 
 Paso 1 — Qué es esto y qué no
-Say: Estás en Claude Code. Se parece al chat de Claude, pero hay una diferencia que lo cambia todo: aquí tengo manos. Puedo leer los archivos de esta carpeta, crear otros nuevos y cambiarlos. El chat te contesta. Aquí, además, hago.
+Say: Estás en Claude Code. Aquí puedo ejecutar cosas por ti: leer tus archivos, crear herramientas, navegar por internet… Y si no sabes si puedo hacer algo, pregúntamelo. Se parece al chat de Claude, pero hay una diferencia que lo cambia todo: el chat te contesta. Aquí, además, hago.
 Say: Este curso va de eso. Seis lecciones cortas y un cierre, y cada una deja algo hecho en tu carpeta. Lo puedes dejar cuando quieras: otro día abres Claude Code en esta misma carpeta, escribes "continúa mi curso" y seguimos donde lo dejamos.
 Why: La gente usa la IA para preguntar. Lo que casi nadie sabe es que puede usarla para que trabaje con sus archivos, en su ordenador, sin saber programar. Verlo con tus propios archivos es lo que lo hace real.
 Say: Un aviso antes de empezar. Es posible que, cuando vaya a crear o a cambiar un archivo, tu aplicación te pregunte si me das permiso. Es tu aplicación cuidando de ti: te avisa antes de que yo toque nada. Si quieres que lo haga, permítelo.
@@ -36,6 +36,6 @@ Why: La diferencia entre una conversación y un archivo es que el archivo sigue 
 Action: Usa marcar_progreso con paso 4.
 
 Paso 5 — Lo que te llevas
-Say: Primera lección hecha. Hoy has visto tres cosas: que aquí tengo manos, que tu idea ya está escrita en mi-idea.md, y que para cambiar algo basta con decírmelo.
+Say: Primera lección hecha. Hoy has visto tres cosas: que aquí ejecuto cosas por ti, que tu idea ya está escrita en mi-idea.md, y que para cambiar algo basta con decírmelo.
 Say: La próxima lección es tu carpeta como mesa de trabajo: traes notas, un PDF, una captura de pantalla, y yo lo leo y lo ordeno. Si quieres seguir ahora, dime "sigue". Si lo dejas para otro día, abre Claude Code en esta carpeta y escribe "continúa mi curso".
 Action: Usa marcar_progreso con paso 5 y leccionCompletada=true.
