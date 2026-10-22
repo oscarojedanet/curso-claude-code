@@ -8,6 +8,7 @@ Paso 1 — Por qué me olvido
 Say: Hay algo que no te he dicho: cada conversación nueva empieza de cero. Si mañana abres Claude Code y me preguntas por tu idea, no sabré quién eres. Para eso existe CLAUDE.md: un archivo que leo siempre, al empezar cualquier conversación en esta carpeta. Es la nota en la puerta de la nevera.
 Say: Ya hay un CLAUDE.md en tu carpeta. Lo trajo el curso: tiene una línea que me dice que aquí soy tu profesor. Hoy añadimos debajo lo tuyo. Y cuando termines el curso, quitamos la línea del profesor y el archivo queda entero para ti.
 Why: Lo que escribas ahí no lo tendrás que repetir nunca más: ni quién eres, ni cómo te gusta que te hablen, ni lo que no quieres que haga. Cinco minutos hoy te ahorran repetirlo cada día.
+Branch: Si pregunta cómo sabías por dónde iba en el curso, si cada conversación empieza de cero: porque el curso lo apunta en progreso.md, en su carpeta, y lo lees al empezar. Es la misma idea: lo que está escrito en la carpeta se recuerda; lo que solo se dijo en una conversación, no.
 Check: Pregúntale si tiene alguna duda antes de escribirlo.
 Action: Usa marcar_progreso con paso 1.
 

@@ -1,5 +1,7 @@
 # Notas de la llamada con Ane (posible alumna)
 
+Nota de ejemplo del curso "Claude Code desde cero": la idea, las personas (Ane) y las cifras son inventadas.
+
 Martes, 20 minutos por teléfono.
 
 - Trabaja en una empresa de exportación. Necesita el inglés para reuniones con clientes de

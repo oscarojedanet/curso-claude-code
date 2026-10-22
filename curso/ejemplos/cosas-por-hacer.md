@@ -1,5 +1,7 @@
 # Cosas por hacer (idea: clases de inglés por mi cuenta)
 
+Nota de ejemplo del curso "Claude Code desde cero": la idea, las personas (Ane) y las cifras son inventadas.
+
 - Decidir si empiezo solo en línea o también en persona.
 - Pensar un precio por hora y uno por paquete de 4 clases.
 - Escribir en dos párrafos cómo sería una primera clase.

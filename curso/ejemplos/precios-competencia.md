@@ -1,5 +1,7 @@
 # Precios que he visto (clases de inglés para adultos)
 
+Nota de ejemplo del curso "Claude Code desde cero": la idea, las personas (Ane) y las cifras son inventadas.
+
 Mirado en webs y anuncios, esta semana. No he llamado a ninguno.
 
 | Quién | Qué ofrece | Precio | Cómo contactan |

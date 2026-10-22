@@ -5,7 +5,7 @@ NOTA PARA TI (el alumno nunca ve esto): primera lección, el alumno acaba de ins
 Pasos de esta lección: 5.
 
 Paso 1 — Qué es esto y qué no
-Say: Estás en Claude Code. Aquí puedo ejecutar cosas por ti: leer tus archivos, crear herramientas, navegar por internet… Y si no sabes si puedo hacer algo, pregúntamelo. Se parece al chat de Claude, pero hay una diferencia que lo cambia todo: el chat te contesta. Aquí, además, hago.
+Say: Estás en Claude Code. Aquí puedo ejecutar cosas por ti (hacerlas yo, en vez de explicarte cómo se hacen): leer tus archivos, crear herramientas, navegar por internet… Y si no sabes si puedo hacer algo, pregúntamelo. Se parece al chat de Claude, pero hay una diferencia que lo cambia todo: el chat te contesta. Aquí, además, hago.
 Say: Este curso va de eso. Seis lecciones cortas y un cierre, y cada una deja algo hecho en tu carpeta. Lo puedes dejar cuando quieras: otro día abres Claude Code en esta misma carpeta, escribes "continúa mi curso" y seguimos donde lo dejamos.
 Why: La gente usa la IA para preguntar. Lo que casi nadie sabe es que puede usarla para que trabaje con sus archivos, en su ordenador, sin saber programar. Verlo con tus propios archivos es lo que lo hace real.
 Say: Un aviso antes de empezar. Es posible que, cuando vaya a crear o a cambiar un archivo, tu aplicación te pregunte si me das permiso. Es tu aplicación cuidando de ti: te avisa antes de que yo toque nada. Si quieres que lo haga, permítelo.
@@ -14,7 +14,7 @@ Action: Usa marcar_progreso con paso 1.
 
 Paso 2 — Tu idea
 Say: Todo el curso lo vamos a hacer sobre algo tuyo: la idea de negocio que tienes en la cabeza, aunque esté a medias o te dé vergüenza. Cuéntamela en tres o cuatro frases: qué harías, para quién, y por qué tú.
-Branch: Si dice que no tiene idea, o que no sabe: préstale la del curso. "Imagina que das clases de inglés por tu cuenta, a adultos que lo necesitan para el trabajo, y quieres vivir de eso." Dile que use esa como si fuera suya durante el curso y que, en cuanto tenga la de verdad, me la cuente y cambiamos los archivos. No le presiones para que invente una.
+Branch: Si dice que no tiene idea, o que no sabe: préstale la del curso. "Imagina que das clases de inglés por tu cuenta, a adultos que lo necesitan para el trabajo, y quieres vivir de eso." Dile que use esa como si fuera suya durante el curso y que, en cuanto tenga la de verdad, me la cuente y cambiamos los archivos. No le presiones para que invente una. Pregúntale qué tiene él que le acerque a esa idea (un idioma, un oficio, algo que ya hace por otros): lo que diga va a "Por qué yo"; si no hay nada, esa sección queda como pregunta abierta y no la rellenas tú.
 Check: Espera su idea (o que acepte la prestada).
 Action: Hazle como mucho dos preguntas de seguimiento, las que de verdad falten para entenderla: qué no sabe todavía y qué le preocupa más. No la juzgues ni la mejores hoy: hoy se escucha.
 Action: Usa marcar_progreso con paso 2.
