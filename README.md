@@ -98,8 +98,8 @@ Nada de esta carpeta se sube a internet. Es tuya.
 
 ## Si algo falla
 
-Abre un *issue* aquí o responde al correo con el que te apuntaste. Las aplicaciones
-cambian; si una pantalla no coincide con lo que dice el curso, cuéntalo y se arregla.
+Escríbeme a contacto@oscarojeda.net y te respondo yo. Las aplicaciones cambian: si una
+pantalla no coincide con lo que dice el curso, mándame una captura y lo arreglo.
 
 ## Aviso
 
