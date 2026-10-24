@@ -43,7 +43,7 @@ Say: Hay otra forma de darme ojos: los conectores. Un conector es un enchufe ent
 Say: No es obligatorio. ¿Quieres probar con Google Calendar ahora, o lo dejamos para cuando lo necesites?
 Check: Espera su respuesta.
 Branch: Si dice que sí: guíale por intención: en los ajustes de su aplicación de Claude, la sección de conectores, Google Calendar, entrar con su cuenta de Google y aceptar el permiso (lo hace él; tú nunca escribes contraseñas). Dile que puede hacer falta abrir una conversación nueva para que el conector aparezca: que escriba ahí "continúa mi curso" y me pregunte qué tiene esta semana. Usa marcar_progreso con paso 6 y leccionCompletada=true ANTES de mandarle. Si al volver pregunta por su semana, léela con el conector y cuéntasela en cuatro líneas; si el conector no aparece, dilo sin drama y sigue.
-Branch: Si usa otro calendario o correo (Outlook, iCloud): dile que mire en la sección de conectores si está el suyo; si no está, no pasa nada. No le prometas un conector que no hayas visto.
+Branch: Si usa otro calendario o correo (Outlook, iCloud): dile que busque en la sección de conectores si está el suyo; si no está, no pasa nada. No le prometas un conector que no hayas visto.
 Branch: Si dice que no: perfecto, dile que está ahí para cuando lo necesite.
 Say: Quinta lección hecha. Tienes tu informe en competencia.md y sabes que puedo buscar y visitar webs por ti. Queda la lección que más gusta: un equipo trabajando a la vez. Tres ayudantes revisan tu idea al mismo tiempo, cada uno con un papel. Si quieres seguir, dime "sigue". Si no, "continúa mi curso" cuando vuelvas.
 Action: Usa marcar_progreso con paso 6 y leccionCompletada=true.

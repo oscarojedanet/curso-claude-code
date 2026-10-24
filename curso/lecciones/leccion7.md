@@ -6,7 +6,7 @@ Pasos de esta lección: 3.
 
 Paso 1 — Lo que has hecho
 Action: Lee la carpeta y haz la lista real de lo que hay: mi-idea.md, la carpeta notas, plan-semana.md, su CLAUDE.md, la skill /post, competencia.md, revision-idea.md y los tres ayudantes de .claude/agents. Una línea por cosa, diciendo para qué sirve. Si falta alguna (porque saltó un paso o la borró), no la pongas.
-Say: Cuando empezaste el curso, esta carpeta estaba casi vacía. Ahora tienes todo esto, hecho sobre tu idea. Y lo más importante no está en la lista: ya sabes pedírmelo. Archivos, memoria, herramientas tuyas, internet, ayudantes a la vez. Eso no se va.
+Say: Cuando empezaste el curso, esta carpeta estaba casi vacía. Ahora tienes todo esto, hecho sobre tu idea (o sobre la que te presté). Y lo más importante no está en la lista: ya sabes pedírmelo. Archivos, memoria, herramientas tuyas, internet, ayudantes a la vez. Eso no se va.
 Check: Pregúntale qué es lo que más le ha servido y qué le ha costado más.
 Action: Usa marcar_progreso con paso 1.
 
@@ -20,8 +20,8 @@ Action: Usa marcar_progreso con paso 2.
 
 Paso 3 — Tu carpeta, tuya
 Say: Último paso: dejar la carpeta del todo tuya. Quito de CLAUDE.md la línea del profesor, la que empieza por arroba. Lo demás, lo tuyo, se queda. A partir de la próxima conversación ya no seré el profesor del curso: seré tu Claude Code de siempre, con tu memoria, tus herramientas y tus ayudantes.
-Say: La carpeta curso y el archivo progreso.md los puedes borrar o dejar. Si los dejas y algún día quieres repetir el curso, me dices "vuelve a poner la línea del profesor", abres una conversación nueva y escribes "empezar de nuevo"; si los borras, se descarga otra vez desde la misma dirección, en una carpeta nueva. ¿Quito la línea del profesor? ¿Y borro la carpeta curso y progreso.md, o los dejo?
+Say: La carpeta curso y el archivo progreso.md (y README.md, LICENSE y .gitignore, que también vinieron con el curso) los puedes borrar o dejar. Si los dejas y algún día quieres repetir el curso, me dices "vuelve a poner la línea del profesor", abres una conversación nueva y escribes "empezar de nuevo"; si los borras, se descarga otra vez desde la misma dirección, en una carpeta nueva. ¿Quito la línea del profesor? ¿Y borro la carpeta curso y progreso.md, o los dejo?
 Check: Espera su sí a quitar la línea, y su decisión sobre la carpeta curso y progreso.md.
-Action: Antes de quitar la línea, usa marcar_progreso con paso 3 y leccionCompletada=true (deja progreso.md en lección 7, paso 3 y "Curso completado: sí"). Después, con su sí, quita de CLAUDE.md solo la línea "@curso/profesor.md" (conserva todo lo demás). Si ha dicho que borre la carpeta curso y progreso.md, bórralos; si no, déjalos. Confírmale lo que has hecho leyendo CLAUDE.md.
-Say: Gracias por llegar hasta el final. Si algo no ha funcionado, o te ha sobrado o faltado algo, respóndeme al correo con el que te apuntaste, o escríbeme a contacto@oscarojeda.net: lo leo yo, y el curso mejora con lo que me cuentas. Nos vemos el sábado.
+Action: Antes de quitar la línea, usa marcar_progreso con paso 3 y leccionCompletada=true (deja progreso.md en lección 7, paso 3 y "Curso completado: sí"). Después, con su sí, quita de CLAUDE.md solo la línea "@curso/profesor.md" (conserva todo lo demás). Si ha dicho que borre la carpeta curso y progreso.md, bórralos (y README.md, LICENSE y .gitignore si también los quiere fuera); si no, déjalos. Confírmale lo que has hecho leyendo CLAUDE.md.
+Say: Gracias por llegar hasta el final. Si algo no ha funcionado, o te ha sobrado o faltado algo, respóndeme al correo con el que te apuntaste, o escríbeme a contacto@oscarojeda.net: lo leo yo, y el curso mejora con lo que me cuentas. Si te llega mi carta, nos vemos el sábado.
 Action: Si aún no lo hiciste antes de quitar la línea, usa marcar_progreso con paso 3 y leccionCompletada=true.
