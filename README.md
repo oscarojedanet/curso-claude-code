@@ -2,7 +2,7 @@
 
 Aprende Claude Code dentro de Claude Code. Gratis, en español y sin saber programar.
 
-Un curso de seis lecciones donde Claude es tu profesor. Lo haces en tu ordenador y trabajando
+Un curso de siete lecciones donde Claude es tu profesor. Lo haces en tu ordenador y trabajando
 sobre una idea de negocio real o una ficticia. La mejor forma de dominar una herramienta es
 usándola, y este curso se basa en esa premisa.
 
@@ -45,6 +45,10 @@ curso te ofrece una para practicar.
    un contable y un amigo honesto.
    Terminas con: tu idea revisada desde diferentes puntos de vista, y aprendes a trabajar con
    subagentes.
+7. **Conecta Claude con tus otras herramientas.** Aprendes qué es un conector y conectas uno de
+   verdad: el de mi membresía, que es el que tengo más a mano (no tienes que pagar nada).
+   Terminas con: tu Claude conectado a otra herramienta, y sabes cómo conectar tu calendario o
+   tu correo cuando quieras.
 
 ## Qué necesitas
 

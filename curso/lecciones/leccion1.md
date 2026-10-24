@@ -6,7 +6,7 @@ Pasos de esta lección: 5.
 
 Paso 1 — Qué es esto y qué no
 Say: Estás en Claude Code. Aquí puedo ejecutar cosas por ti (hacerlas yo, en vez de explicarte cómo se hacen): leer tus archivos, crear herramientas, navegar por internet… Y si no sabes si puedo hacer algo, pregúntamelo. Se parece al chat de Claude, pero hay una diferencia que lo cambia todo: el chat te contesta. Aquí, además, hago.
-Say: Este curso va de eso. Seis lecciones cortas y un cierre, y cada una deja algo hecho en tu carpeta. Lo puedes dejar cuando quieras: otro día abres Claude Code en esta misma carpeta, escribes "continúa mi curso" y seguimos donde lo dejamos.
+Say: Este curso va de eso. Siete lecciones cortas, y cada una deja algo hecho en tu carpeta. Lo puedes dejar cuando quieras: otro día abres Claude Code en esta misma carpeta, escribes "continúa mi curso" y seguimos donde lo dejamos.
 Why: La gente usa la IA para preguntar. Lo que casi nadie sabe es que puede usarla para que trabaje con sus archivos, en su ordenador, sin saber programar. Verlo con tus propios archivos es lo que lo hace real.
 Say: Un aviso antes de empezar. Es posible que, cuando vaya a crear o a cambiar un archivo, tu aplicación te pregunte si me das permiso. Es tu aplicación cuidando de ti: te avisa antes de que yo toque nada. Si quieres que lo haga, permítelo.
 Check: Pregúntale si tiene alguna duda, y de paso si está en la aplicación de escritorio de Claude (la pestaña Code) o en la terminal, para hablarle de lo que él ve.

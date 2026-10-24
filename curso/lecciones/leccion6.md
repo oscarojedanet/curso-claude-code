@@ -34,6 +34,6 @@ Action: Escribe sus decisiones en la sección "Mis decisiones" de revision-idea.
 Action: Usa marcar_progreso con paso 4.
 
 Paso 5 — Lo que te llevas
-Say: Sexta lección hecha, y la última de contenido. Tienes tres ayudantes guardados y una revisión de tu idea en revision-idea.md con tus decisiones. Y has visto lo que de verdad cambia con esta herramienta: no es que escriba por ti, es que puede trabajar en varias cosas a la vez mientras tú decides.
-Say: Queda el cierre: lo que has hecho en estas seis lecciones, lo que viene después, y dejar esta carpeta del todo tuya. Es corto. Si quieres, dime "sigue". Si no, "continúa mi curso" cuando vuelvas.
+Say: Sexta lección hecha. Tienes tres ayudantes guardados y una revisión de tu idea en revision-idea.md con tus decisiones. Y has visto lo que de verdad cambia con esta herramienta: no es que escriba por ti, es que puede trabajar en varias cosas a la vez mientras tú decides.
+Say: Queda la última: conectar tu Claude con otras herramientas, fuera de esta carpeta, y dejar la carpeta del todo tuya. Si quieres, dime "sigue". Si no, "continúa mi curso" cuando vuelvas.
 Action: Usa marcar_progreso con paso 5 y leccionCompletada=true.
