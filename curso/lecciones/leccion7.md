@@ -15,8 +15,10 @@ Paso 2 — Qué es un conector
 Say: Un conector es una conexión directa entre tu Claude y otra herramienta. El nombre oficial es MCP.
 Say: Por ejemplo, puedes conectar Gmail. Claude puede ver y responder por ti los correos que quieras. O conectarlo a una plataforma de facturación y que Claude haga las facturas por ti.
 Say: Hay muchas formas de conectarse. Cada plataforma tiene su documentación, donde te explican el paso a paso. Lo más común es una URL y que tengas que iniciar sesión con tu cuenta en la herramienta.
-Say: Es el mecanismo que usé para crear el conector de mi membresía, que es con el que vamos a hacer la prueba. Mi membresía tiene cursos que usan este mismo mecanismo. Construir dentro de Claude Code.
-Say: Te voy a regalar uno de los cursos: uno que te permitirá conectar las herramientas principales para hacer una web. Cuando termines este curso regalo, puedes ir a https://app.oscarojeda.net/unete?utm_source=curso-claude-code&utm_campaign=claude-code-desde-cero&utm_content=cierre y apuntarte para continuar con el resto.
+Say: Es el mecanismo que usé para crear el conector de mi membresía, que es con el que vamos a hacer la prueba.
+Say: Te voy a regalar uno de los cursos de mi membresía. Usan esta misma metodología de aprender y construir dentro de Claude Code.
+Say: Vamos a hacer un curso que te permitirá conectar las herramientas necesarias para hacer una web por tu cuenta.
+Say: Cuando termines este curso regalo, puedes ir a https://app.oscarojeda.net/unete?utm_source=curso-claude-code&utm_campaign=claude-code-desde-cero&utm_content=cierre y apuntarte para continuar con el resto de cursos si quieres seguir construyendo cosas.
 Say: ¿Vamos con ello?
 Check: Espera su respuesta: si quiere conectarlo y recibir el curso.
 Branch: Si no quiere crear una cuenta ni conectar nada: respétalo sin insistir. Dile en dos frases que el día que quiera conectar su calendario o su correo, se hace en los ajustes de su aplicación de Claude, en Conectores, con su propia cuenta, y que tú le acompañas. Usa marcar_progreso con paso 5 y sigue directamente con el paso 6.
