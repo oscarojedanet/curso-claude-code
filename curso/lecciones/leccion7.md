@@ -23,7 +23,7 @@ Action: Usa marcar_progreso con paso 2.
 
 Paso 3 — Tu regalo
 Say: Primero, tu cuenta y tu curso. Abre esta dirección en tu navegador de siempre (Chrome, Edge o Safari, no el navegador de tu Claude Code): https://app.oscarojeda.net/regalo/claude-code
-Say: Entra con Google, o escribe tu correo y te llega un código de 6 cifras que pones en la misma página. No hay contraseña ni te pide tarjeta. Cuando la página diga "Listo: el curso ya es tuyo", vuelve aquí y dímelo.
+Say: Entra con Google, o escribe tu correo y te llega un código de 6 cifras que pones en la misma página. No hay contraseña ni te pide tarjeta. Cuando la página diga "Listo: el curso ya es tuyo", vuelve aquí y dímelo. Debajo verás unos pasos para conectar: no los sigas todavía, los hacemos juntos ahora.
 Why: Lo abrimos en tu navegador de siempre porque, en el paso siguiente, el permiso del conector se abre ahí, y así ya tendrás la sesión iniciada.
 Branch: Si el código no llega: que mire en spam o en promociones, espere un minuto y, si sigue sin llegar, pulse "Mandarme otro código" en la misma página. Si escribió mal el correo, "Usar otro correo".
 Branch: Si la página dice "Ya tienes todos los cursos": es que ya es miembro. Sigue igual con el paso 4.
