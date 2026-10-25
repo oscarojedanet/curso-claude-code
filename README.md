@@ -46,7 +46,7 @@ curso te ofrece una para practicar.
    Terminas con: tu idea revisada desde diferentes puntos de vista, y aprendes a trabajar con
    subagentes.
 7. **Conecta Claude con tus otras herramientas.** Aprendes qué es un conector y conectas uno de
-   verdad: el de mi membresía, que es el que tengo más a mano (no tienes que pagar nada).
+   verdad.
    Terminas con: tu Claude conectado a otra herramienta, y sabes cómo conectar tu calendario o
    tu correo cuando quieras.
 
